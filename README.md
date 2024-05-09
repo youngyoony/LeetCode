@@ -1,2 +1,2 @@
-# leetcode
-Consistently working hard
+# LeetCode
+Repository for recording LeetCode Algorithm problem solving.
